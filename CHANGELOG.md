@@ -1,5 +1,11 @@
 # @duftekarten/tcg-wrapper
 
+## 1.0.4
+
+### Patch Changes
+
+- 54d029c: module export
+
 ## 1.0.3
 
 ### Patch Changes
