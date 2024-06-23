@@ -1,5 +1,13 @@
 # @duftekarten/tcg-wrapper
 
+## 1.0.2
+
+### Patch Changes
+
+- 0a4d0f9: another test for action
+- f788ff6: pnpm initialize
+- 0a4d0f9: initial request test
+
 ## 1.0.1
 
 ### Patch Changes
