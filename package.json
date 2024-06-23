@@ -2,10 +2,15 @@
   "name": "@duftekarten/tcg-wrapper",
   "version": "1.0.3",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "build": "tsup",
     "release": "npm run build && changeset publish"
   },
   "keywords": [],
